@@ -33,19 +33,19 @@
   <tr>
     <td colspan="2">
       <a href="https://github.com/saum1234">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaira476&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=saum1234&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/saum1234">
-        <img src="https://streak-stats.demolab.com?user=sumaira476&theme=nord&hide_border=true">
+        <img src="https://streak-stats.demolab.com?user=saum1234&theme=nord&hide_border=true">
       </a>
     </td>
     <td>
-      <a href="https://github.com/sumaira476">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaira476&theme=nord_dark">
+      <a href="https://github.com/saum1234">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saum1234&theme=nord_dark">
       </a>
     </td>
   </tr>
@@ -54,10 +54,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sumaira476&show_icons=true&theme=radical&count_private=true&border_radius=10&card_width=500&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=saum1234&show_icons=true&theme=radical&count_private=true&border_radius=10&card_width=500&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaira476&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saum1234&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
