@@ -7,7 +7,7 @@
 
 <div>
   <div align="center">
-    <a href="https://leetcode.com/u/saum1234/" target="_blank">
+    <a href="https://leetcode.com/" target="_blank">
       <img src=https://img.shields.io/badge/leetcode-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in//" target="_blank">
@@ -26,7 +26,7 @@
   <tr>
     <td colspan="2">
       <a href="https://github.com/saum1234”>
-        <img width=100% src="https://github-profile-trophy.vercel.app/?username=sumaira476&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
+        <img width=100% src="https://github-profile-trophy.vercel.app/?username=saum1234&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
       </a>
     </td>
   </tr>
